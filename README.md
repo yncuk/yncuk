@@ -1,16 +1,22 @@
-### Hi there 👋
+### __Hi there__ 👋
+Я начнающий Java developer, есть опыт разработки проектов (указаны ниже).
 
-<!--
-**yncuk/yncuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Хочу углубить свои знания в Backend и изучить Frontend, чтобы в будущем стать Full stack разработчиком.
 
-Here are some ideas to get you started:
+## Мои проекты
+__Animal Chipization__ - сервис для чипирования и отслеживания животных. Проект реализован для олимпиады 
+"IT-Планета 2023" (на время конкурса в приватном репозитории, могу предоставить доступ) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java 11, REST API, Spring Boot, PostgreSQL, Maven, Docker. Реализована авторизация, JSON-формат, CRUD, 
+отслеживаемый жизненный цикл животных, чтобы защитить от гибели
+
+[__Shareit__](https://github.com/yncuk/java-shareit) - сервис по шерингу вещей.
+
+Java 11, REST API, Spring Boot, PostgreSQL (+h2), Maven, MockMvc. CRUD JSON, Docker
+
+[__Filmorate__](https://github.com/yncuk/java-filmorate) - сервис по оценке фильмов 
+
+Java 11, REST API, Spring Boot, h2, Maven, MockMvc, JSON.
+
+[__Kanban__](https://github.com/yncuk/java-kanban) - трекер задач.
+Java 11, ООП, CRUD, JUnit. (Самый первый проект на Java)
