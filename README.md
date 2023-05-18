@@ -7,7 +7,7 @@
 [__Animal Chipization__](https://github.com/yncuk/animal_chipization) - сервис для чипирования и отслеживания животных. Проект реализован для олимпиады 
 "IT-Планета 2023". Прошел в финал соревнований
 
-Java 11, REST API, Spring Boot, PostgreSQL, Maven, Docker, Postman, Swagger. Реализована авторизация, JSON-формат, CRUD, 
+Java 17, REST API, Spring Boot, PostgreSQL, Maven, Docker, Postman, Swagger. Реализована авторизация, JSON-формат, CRUD, 
 отслеживаемый жизненный цикл животных, чтобы защитить от гибели
 
 [__ExploreWithMe__](https://github.com/yncuk/java-explore-with-me) - многомодульный сервис для публикации событий
